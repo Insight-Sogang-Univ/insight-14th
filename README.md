@@ -84,7 +84,7 @@
     git add basic/neulbokim/session00/example.ipynb
 
     # (2) 로컬 저장소에 commit: 본인에게 할당된 이슈 번호 확인 후 커밋 메시지 작성
-    git commit -m "#1 김현서 과제 제출합니다."
+    git commit -m "#3 김현서 Pandas 과제 제출합니다."
 
     # (3) 원격 저장소에 push
     git push
