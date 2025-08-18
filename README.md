@@ -80,6 +80,8 @@
     ```git bash
     # (1) 임시 저장 공간(staging area)에 add
     git add basic/<본인 아이디>/session00/example.ipynb
+    ## 예시
+    git add basic/neulbokim/session00/example.ipynb
 
     # (2) 로컬 저장소에 commit: 본인에게 할당된 이슈 번호 확인 후 커밋 메시지 작성
     git commit -m "#1 김현서 과제 제출합니다."
