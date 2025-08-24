@@ -2,7 +2,7 @@
 name: template
 about: 과제 및 실습 파일 템플릿 업로드
 title: "[template]"
-labels: ''
+labels: 'template'
 assignees: ''
 
 ---
