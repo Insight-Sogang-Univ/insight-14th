@@ -2,8 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,visualstudiocode,python,jupyternotebooks,dotenv,data
 
 # 실습 파일 제외 (단, 템플릿은 올려야 함)
-# *practice_*.ipynb
-# !basic/template/**/practice_*.ipynb
+*practice_*.ipynb
+!basic/template/**/practice_*.ipynb
 # 답안 파일 제외
 *_answer.ipynb
 
