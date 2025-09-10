@@ -6,8 +6,8 @@
 !basic/template/**/practice_*.ipynb
 # 답안 파일 제외
 *_answer.ipynb
-# 데이터 파일 제외
-*.csv
+
+
 
 ### dotenv ###
 .env
