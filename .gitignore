@@ -4,6 +4,7 @@
 # 실습 파일 제외 (단, 템플릿은 올려야 함)
 *practice_*.ipynb
 !basic/template/**/practice_*.ipynb
+!advanced/template/**/practice_*.ipynb
 # 답안 파일 제외
 *_answer.ipynb
 # 데이터 파일 제외
