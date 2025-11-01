@@ -9,6 +9,7 @@
 *_answer.ipynb
 # 데이터 파일 제외
 *.csv
+!advanced/template/**/*.csv
 
 ### dotenv ###
 .env
