@@ -9,7 +9,6 @@
 *_answer.ipynb
 # 데이터 파일 제외
 *.csv
-!advanced/template/**/*.csv # 템플릿은 올려야 함
 
 ### dotenv ###
 .env
